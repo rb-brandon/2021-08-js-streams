@@ -1,0 +1,19 @@
+{
+  "name": "2021-08-js-streams",
+  "version": "0.0.1",
+  "description": "playing with streams",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node ./index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/rb-brandon/2021-08-js-streams"
+  },
+  "keywords": [
+    "node",
+    "streams"
+  ],
+  "author": "rb-brandon",
+  "license": "ISC"
+}
